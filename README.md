@@ -99,17 +99,6 @@ B.Tech in Computer Science & Engineering (AI & ML)
 
 ---
 
-title: BankStatement Parser
-emoji: ⚡
-colorFrom: yellow
-colorTo: green
-sdk: gradio
-sdk_version: 5.33.0
-app_file: app.py
-pinned: false
-license: apache-2.0
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for full details.
