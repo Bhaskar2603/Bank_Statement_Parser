@@ -1,0 +1,12 @@
+gradio
+pandas
+pdfplumber
+pytesseract
+pillow
+pdf2image
+openpyxl
+sentencepiece
+transformers
+torch
+huggingface_hub
+fpdf2
